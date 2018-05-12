@@ -1,0 +1,50 @@
+_repo: Joe-Miller-s-Jests-With-Copious-Additions_43326
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Mottley, John
+    aliases:
+    - Jenkins, Elijah
+    - Seymour, R.
+    - Mottley, Mr. (John)
+    birthdate: 1692
+    deathdate: 1750
+    gutenberg_agent_id: '40430'
+    url: http://www.gutenberg.org/2009/agents/40430
+    wikipedia: http://en.wikipedia.org/wiki/John_Mottley
+  contributor:
+    agent_name: Miller, Joe
+    alias: Miller, Joseph
+    birthdate: 1684
+    deathdate: 1738
+    gutenberg_agent_id: '40429'
+    url: http://www.gutenberg.org/2009/agents/40429
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Bellew, Frank
+    aliases:
+    - Ex-tramp
+    - Bellew, F. H. Temple (Frank Henry Temple)
+    - Bellew, Frank Henry Temple
+    birthdate: 1828
+    deathdate: 1888
+    gutenberg_agent_id: '40543'
+    url: http://www.gutenberg.org/2009/agents/40543
+description: ''
+gutenberg_issued: '2013-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43326'
+  lccn: '24030022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcc 'PN'
+title: Joe Miller's Jests, with Copious Additions
+url: http://www.gutenberg.org/ebooks/43326
