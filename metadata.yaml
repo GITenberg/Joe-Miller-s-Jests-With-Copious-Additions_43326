@@ -34,6 +34,8 @@ creator:
     gutenberg_agent_id: '40543'
     url: http://www.gutenberg.org/2009/agents/40543
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43326#Joe-Miller-s-Jests-With-Copious-Additions
 gutenberg_issued: '2013-07-27'
 gutenberg_type: Text
 identifiers:
